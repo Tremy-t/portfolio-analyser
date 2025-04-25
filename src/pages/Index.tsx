@@ -103,7 +103,7 @@ const Index = () => {
             </p>
             <div className="flex items-center space-x-2">
               <p className="text-sm text-muted-foreground">
-                Built with <span className="text-electric-500">❤</span> for frontend developers
+                Built for frontend developers
               </p>
               <a 
                 href="https://x.com/RyoDabi" 
